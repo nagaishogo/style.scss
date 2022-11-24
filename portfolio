@@ -1,0 +1,20 @@
+@charset "utf=8";
+//変数//
+
+
+$main-color: #333;
+$w-color: #fff;
+$orange: #ccc;
+$dark-orange: darken($orange, 20%);
+
+
+$main-font: 1.6vw;
+$sub-font: 1.2vw;
+$main-title-font: 25px;
+$page-title-font: 3vw;
+
+
+$hover-label-width: 18%;
+$placeholder-bumper: 1.5%;
+$label-padding: 18px;
+
